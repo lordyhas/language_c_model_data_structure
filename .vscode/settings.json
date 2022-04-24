@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "file.h": "c",
+        "dlist.h": "c",
+        "atomic": "cpp",
+        "cstdlib": "cpp",
+        "memory": "cpp",
+        "xlocale": "cpp",
+        "xlocinfo": "cpp",
+        "xlocnum": "cpp",
+        "xmemory": "cpp",
+        "dlinkedlist.h": "c",
+        "tree_search.h": "c"
+    }
+}
