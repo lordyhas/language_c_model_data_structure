@@ -1,1 +1,1 @@
-# abstract_data_type
+# abstract_data_type (adt)
